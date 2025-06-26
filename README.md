@@ -50,43 +50,23 @@ A Laravel-powered Job Portal application that allows admins to manage job postin
 git clone https://github.com/your-username/job-portal.git
 cd job-portal
 ```
-2. Install PHP Dependencies
-bash
-Copy
-Edit
-composer install
-3. Install Node Dependencies
-bash
-Copy
-Edit
-npm install && npm run dev
-4. Setup Environment
-bash
-Copy
-Edit
-cp .env.example .env
-php artisan key:generate
-Update your .env file with your database credentials:
+# 🧑‍💼 Laravel Job Portal Setup Guide
 
-ini
-Copy
-Edit
-DB_DATABASE=jobportal
-DB_USERNAME=root
-DB_PASSWORD=your_password
-5. Run Migrations
-bash
-Copy
-Edit
-php artisan migrate
-6. Link Storage
-bash
-Copy
-Edit
-php artisan storage:link
-7. Start Development Server
-bash
-Copy
-Edit
-php artisan serve
-Visit: http://localhost:8000
+A Laravel-based Job Portal application where admins can manage jobs and applicants, and users can apply for jobs online.
+
+---
+
+## ⚙️ Installation Steps
+
+### 1. Install PHP Dependencies
+
+```bash
+composer install
+
+### 2. Install Node Dependencies
+
+```bash
+npm install && npm run dev
+
+
+
