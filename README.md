@@ -23,7 +23,7 @@ A Laravel-powered Job Portal application that allows admins to manage job postin
 
 ## 🛠️ Tech Stack
 
--   **Laravel 10+**
+-   **Laravel 12**
 -   **Tailwind CSS**
 -   **Alpine.js**
 -   **MySQL**
