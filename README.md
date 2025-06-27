@@ -34,7 +34,7 @@ A Laravel-powered Job Portal application that allows admins to manage job postin
 
 ## 📦 Requirements
 
--   PHP >= 8.1
+-   PHP >= PHP 8.2.12
 -   Composer
 -   MySQL / MariaDB
 -   Node.js & npm
