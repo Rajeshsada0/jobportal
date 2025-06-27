@@ -115,7 +115,7 @@ php artisan serve
 | `/dashboard`                | Admin dashboard         |
 | `/admin/jobs`               | Manage job listings     |
 | `/admin/jobs/create`        | Add a new job           |
-| `/admin/jobs/applicantlist` | View all applicants     |
+| `/admin/applicant-list`     | View all applicants     |
 | `/jobs/{id}`                | Job detail & apply form |
 
 ### 9. Limitations
